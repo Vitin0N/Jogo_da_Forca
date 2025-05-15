@@ -98,7 +98,7 @@ def forca(tema, palavra): # Função que realiza o jogo
         print(palavra_digitada) #Mostra a palavra
 
         if qnt_vidas == 0:
-            verifica_palavras(palavra_certa='Certo', palavra_digitada='Perdeu') #Perde o jogo caso as vidas zerem
+            verifica_palavras(palavra_certa=palavra, palavra_digitada='_palavra_errada_') #Perde o jogo caso as vidas zerem
             break
 
         op_forca = digita_opcao(3)
