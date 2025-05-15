@@ -1,0 +1,79 @@
+{
+  "animais": [
+    "cachorro", "gato", "elefante", "leao", "tigre", "urso", "camelo", "zebra", "girafa", "lobo",
+    "coelho", "rato", "javali", "jacare", "cavalo", "pato", "galinha", "ganso", "pinguim", "foca",
+    "baleia", "golfinho", "tubarao", "camaleao", "coruja", "aguia", "falcao", "marreco", "tamandua", "capivara",
+    "porco", "vaca", "ovelha", "anta", "ema", "arara", "papagaio", "periquito", "cobra", "aranha",
+    "sapo", "rã", "lagarto", "jacaretinga", "cervo", "antilope", "rinoceronte", "hipopotamo", "urubu", "corvo"
+  ],
+  "comidas": [
+    "pizza", "lasanha", "sushi", "feijoada", "arroz", "feijao", "hamburguer", "batata", "farofa", "salada",
+    "carne", "frango", "linguica", "macarrao", "churrasco", "panqueca", "pudim", "brigadeiro", "coxinha", "pastel",
+    "esfirra", "kibe", "moqueca", "torta", "bacalhau", "empada", "canjica", "doce", "milho", "pipoca",
+    "queijo", "presunto", "salgadinho", "banana", "maca", "pera", "manga", "caju", "abacaxi", "uva",
+    "tamarindo", "acaraje", "tacaca", "bolo", "refrigerante", "suco", "sorvete", "iogurte", "polenta", "pamonha"
+  ],
+  "paises": [
+    "brasil", "argentina", "uruguai", "paraguai", "chile", "peru", "colombia", "mexico", "canada", "estados unidos",
+    "espanha", "portugal", "franca", "italia", "alemanha", "inglaterra", "irlanda", "china", "japao", "coreia do sul",
+    "australia", "india", "russia", "africa do sul", "egito", "nigeria", "marrocos", "israel", "turquia", "grecia",
+    "suica", "noruega", "suecia", "finlandia", "dinamarca", "polonia", "austria", "hungria", "tailandia", "vietna",
+    "filipinas", "indonesia", "arabia saudita", "emirados arabes", "iran", "iraque", "cuba", "venezuela", "jamaica", "haiti"
+  ],
+  "profissoes": [
+    "medico", "professor", "engenheiro", "advogado", "bombeiro", "policial", "motorista", "pintor", "cientista", "biologo",
+    "quimico", "fisico", "matematico", "psicologo", "nutricionista", "cozinheiro", "arquiteto", "jornalista", "fotografo", "veterinario",
+    "programador", "analista", "secretaria", "dentista", "marceneiro", "pedreiro", "eletricista", "encanador", "carpinteiro", "barbeiro",
+    "costureira", "esteticista", "modelo", "piloto", "aeromoca", "bancario", "vendedor", "porteiro", "editor", "locutor",
+    "publicitario", "tradutor", "bibliotecario", "dublador", "webdesigner", "designer", "gerente", "operador", "atendente", "monitora"
+  ],
+  "series": [
+    "stranger things", "breaking bad", "the office", "friends", "dark", "la casa de papel", "vikings", "peaky blinders", "round 6", "lost",
+    "the witcher", "the walking dead", "supernatural", "game of thrones", "lucifer", "the boys", "how i met your mother", "house", "black mirror", "the crown",
+    "narcos", "gossip girl", "brooklyn 99", "arrow", "flash", "supergirl", "prison break", "suits", "the 100", "smallville",
+    "the big bang theory", "dexter", "greys anatomy", "shameless", "cobra kai", "wandavision", "loki", "moon knight", "mr robot", "manifest",
+    "euphoria", "you", "the good doctor", "mindhunter", "sense8", "elite", "reign", "the umbrella academy", "anne with an e", "sabrina"
+  ],
+  "esportes": [
+    "futebol", "volei", "basquete", "handebol", "tenis", "natacao", "surf", "esqui", "karate", "judo",
+    "muaythai", "taekwondo", "boxe", "ciclismo", "skate", "corrida", "atletismo", "levantamento", "ginastica", "halterofilismo",
+    "automobilismo", "motocross", "futsal", "xadrez", "dama", "capoeira", "canoagem", "golfe", "rugby", "beisebol",
+    "criquete", "luta", "pentatlo", "esgrima", "parkour", "remo", "arco", "triatlo", "snowboard", "paraquedismo",
+    "escalada", "mergulho", "tiro", "patinacao", "badminton", "sambo", "softbol", "sumo", "curling", "paintball"
+  ],
+  "objetos": [
+    "cadeira", "mesa", "espelho", "lapis", "caneta", "mochila", "telefone", "relógio", "óculos", "garrafa",
+    "chave", "porta", "janela", "caderno", "livro", "tijolo", "martelo", "parafuso", "tesoura", "cola",
+    "grampeador", "banco", "escada", "prato", "garfo", "colher", "ventilador", "fone", "controle", "televisao",
+    "sofa", "panela", "balde", "abajur", "toalha", "lençol", "pente", "espremedor", "aspirador", "regador",
+    "varal", "pregador", "roupa", "meia", "sapato", "chinelos", "bolsa", "moeda", "carteira", "escova"
+  ],
+  "filmes": [
+  "avatar", "titanic", "vingadores", "interestelar", "matrix", "harry potter", "crepusculo", "jogos vorazes", "frozen", "toy story",
+  "shrek", "homem aranha", "homem de ferro", "capitao america", "doutor estranho", "pantera negra", "batman", "superman", "aquaman", "joker",
+  "minions", "meu malvado favorito", "divertida mente", "valente", "soul", "ratatouille", "os incriveis", "elementos", "up", "moana",
+  "encanto", "aladdin", "rei leao", "cinderela", "mulan", "hercules", "pocahontas", "carros", "nemo", "dory",
+  "kung fu panda", "madagascar", "era do gelo", "rio", "zootopia", "detona ralph", "ralph quebra a internet", "wall e", "lucas neto", "gato de botas"
+  ],
+  "jogos": [
+  "minecraft", "fortnite", "free fire", "roblox", "valorant", "lol", "csgo", "fifa", "pes", "gta",
+  "the sims", "among us", "brawl stars", "clash royale", "clash of clans", "call of duty", "overwatch", "dota", "pokemon", "zelda",
+  "mario", "sonic", "god of war", "hollow knight", "skyrim", "elden ring", "resident evil", "far cry", "halo", "cyberpunk",
+  "red dead redemption", "hades", "cuphead", "undertale", "stardew valley", "diablo", "spyro", "crash", "battlefield", "tekken",
+  "mortal kombat", "street fighter", "just dance", "guitar hero", "farming simulator", "rocket league", "fall guys", "geometry dash", "subway surfers", "candy crush"
+  ],
+  "marcas": [
+  "nike", "adidas", "puma", "reebok", "lacoste", "fila", "apple", "samsung", "motorola", "xiaomi",
+  "sony", "lg", "philips", "panasonic", "hp", "dell", "acer", "asus", "lenovo", "intel",
+  "amd", "nvidia", "coca cola", "pepsi", "heineken", "nestle", "danone", "colgate", "oral b", "nivea",
+  "honda", "toyota", "chevrolet", "volkswagen", "fiat", "ford", "jeep", "bmw", "mercedes", "tesla",
+  "netflix", "spotify", "google", "facebook", "instagram", "whatsapp", "youtube", "nubank", "mercado livre", "magalu"
+  ],
+  "famosos": [
+  "beyonce", "rihanna", "lady gaga", "madonna", "shakira", "bruno mars", "taylor swift", "justin bieber", "selena gomez", "ariana grande",
+  "billie eilish", "drake", "eminem", "kanye west", "the weeknd", "ed sheeran", "dua lipa", "anitta", "luisa sonza", "pablo vittar",
+  "whindersson", "felipe neto", "juliette", "larissa manoela", "neymar", "messi", "cristiano ronaldo", "ronaldo", "pelé", "marta",
+  "paulo gustavo", "renato aragao", "roberto carlos", "ivete sangalo", "caetano veloso", "gilberto gil", "zeca pagodinho", "xuxa", "eliana", "angelina jolie",
+  "brad pitt", "johnny depp", "leonardo dicaprio", "keanu reeves", "tom cruise", "zendaya", "zendaya", "millie bobby brown", "zendaya", "ryan reynolds"
+  ]
+}
