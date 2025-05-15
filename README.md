@@ -1,6 +1,6 @@
 # 🎮 Jogo da Forca (Python)
 
-Bem-vindo ao **Jogo da Forca**, um clássico jogo de adivinhação de palavras totalmente feito em Python! Fiz esse jogo para aperfeiçoar meus conhecimentos em Python.
+Bem-vindo ao Jogo da Forca! Este clássico jogo de adivinhação de palavras foi desenvolvido inteiramente em Python como forma de aprimorar meus conhecimentos na linguagem e praticar lógica de programação.
 
 ---
 
