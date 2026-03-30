@@ -31,7 +31,7 @@ Bem-vindo ao Jogo da Forca! Este clássico jogo de adivinhação de palavras foi
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/forca-python.git
+git clone https://github.com/Vitin0N/Jogo_da_Forca
 cd forca-python
 ```
 
